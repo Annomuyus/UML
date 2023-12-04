@@ -1,0 +1,22 @@
+﻿PLTN-Air
+Selanjutnya, lakukan tugas berikut.
+
+Buatlah daftar bagaimana bisnis tersebut dapat lebih baik jika menggunakan sebuah=Pengumuman permasalahan perhentian aliran air(Air mati), Kapan akan selesai pemeliharaan dan perbaikan nya, dan pemberitahuan  Faktor kerusakan pada publik
+
+Buatlah daftar perbaikan yang mungkin dapat dilakukan dan keuntungan apa yang dapat diperoleh organisasi dari berbaikan tersebut.= Mengurangi kritik dari masyarakat serta memudahkan pekerja untuk mengatur shift perbaikan & pemeliharaan
+
+Tuliskan dan jelaskan pengalaman Anda dalam mengelola file-file di komputer, serta bagaimana metadata dapat membantu atau berperan?
+=Saya bisa mengategorikan beberapa jenis file, contohnya gambar, teks, zip, aplikasi dengan fungsi pada bidangnya, jenis file(misalnya uml, php, html, css) kedalam folder tertentu. 
+
+ Carilah di internet, contoh kasus kriminal atau pidana yang menggunakan metadata sebagai solusi untuk menyelesaikan kasus tersebut, bagaimana metadata digunakan untuk menyelesaikan kasus tersebut=Pembuatan skandal, karna dengan metadata yang dapat melacak lokasi & data diri pembuat Skandal(Akan sedikit rumit Jika pembuat memakai Vpn) 
+
+
+
+Rencanakanlah sebuah program yang akan dikembangkan dan kemudian buatlah pemodelan
+
+untuk program tersebut dengan membuat model berikut:
+
+1. Judul atau nama program.
+=Pemberithuan Kerusakan PLTN Public 
+2. Deskripsi lengkap tentang program dan Penggunaannya
+=Pihak PLTN akan memberikan peringatan atau pemberitahuan mengenai Sistem pipa air atau sejenisnya,dan para pengguna dapat mengomentari pemberitahuan tersebut. 
